@@ -3,7 +3,7 @@
   "displayName": "Firebase App (Core)",
   "description": "Firebase App (Core) description goes here.",
   "keywords": [],
-  "version": "1.0.0",
+  "version": "12.4.0",
   "unity": "2022.3",
   "documentationUrl": "https://github.com/Unity-UPM-Packages/Firebase-App#documentation",
   "changelogUrl": "https://github.com/Unity-UPM-Packages/Firebase-App/releases",
@@ -16,5 +16,16 @@
     "name": "Unity-UPM-Packages",
     "url": "https://github.com/Unity-UPM-Packages"
   },
-  "dependencies": {}
+  "dependencies": {
+    "com.google.external-dependency-manager": "1.2.183"
+  },
+  "scopedRegistries": [
+    {
+      "name": "TripSoft",
+      "url": "https://verdaccio.tripdev.io/",
+      "scopes": [
+        "com.google"
+      ]
+    }
+  ]
 }
