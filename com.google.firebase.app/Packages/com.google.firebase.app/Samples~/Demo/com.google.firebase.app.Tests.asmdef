@@ -1,0 +1,16 @@
+{
+    "name": "com.google.firebase.app.Demo",
+    "rootNamespace": "com.google.firebase.app.Demo",
+    "references": [
+        "com.google.firebase.app"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
