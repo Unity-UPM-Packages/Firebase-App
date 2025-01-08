@@ -1,4 +1,4 @@
-# com.com.google.firebase.app
+# com.google.firebase.app
 
 
 A com.google.firebase.app package for the [Unity](https://unity.com/) Game Engine.
@@ -18,7 +18,7 @@ The recommended installation method is though the unity package manager.
   - Name: `TripSoft`
   - URL: `https://verdaccio.tripdev.io`
   - Scope(s):
-    - `com.google.firebase.app`
+    - `com.google`
 - Open the Unity Package Manager window
 - Change the Registry from Unity to `My Registries`
 - Add the `com.google.firebase.app` package
